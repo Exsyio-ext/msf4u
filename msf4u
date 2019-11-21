@@ -41,7 +41,7 @@ read option;
        	esac 
     echo ""
    rm ip.txt
- echo -e "YOUR PAYLOAD SAVED IN"
+ echo "YOUR PAYLOAD SAVED IN"
 echo ""
 echo "/data/data/com.termux/files/home/storage/downloads/$name"
 termux-setup-storage
